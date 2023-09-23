@@ -12,12 +12,7 @@ import {
   import db from '../utils/db.json'; // Import the JSON data
 
   import { Stack, useRouter } from "expo-router";
-  //   import {
-  //     Nearbyjobs,
-  //     Popularjobs,
-  //     ScreenHeaderBtn,
-  //     Welcome,
-  //   } from "../components";
+
   const Home = () => {
     const router = useRouter();
   
@@ -25,20 +20,14 @@ import {
       <SafeAreaView style={{ flex: 1 }}>
         <Stack.Screen
           options={{
-            // headerStyle: { backgroundColor: COLORS.lightWhite },
             headerShadowVisible: false,
-            // headerLeft: () => <ScreenHeaderBtn dimension="60%" />,
             headerRight: () => (
               <TouchableOpacity
                 onPress={() => {
                   router.push("/");
                 }}
               >
-                {/* <Image
-                    source={favicon}
-                    style={{ width: "41px", height: "53px" }}
-                    resizeMode="cover"
-                  /> */}
+             
               </TouchableOpacity>
             ),
             headerTitle: "",
