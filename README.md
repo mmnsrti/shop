@@ -26,22 +26,21 @@
 - **Related Products:** Discover similar products you might like.
 
 ## Demo
-
-[Include a link to a live demo or a video demonstration of your project, if available.]
+https://github.com/mmnsrti/shop/releases/download/reactnative/application-96c15204-43d5-4c62-90c8-be930562f7db.apk
 
 ## ScreenShots
 
 
-![Screenshot 1](https://github.com/mmnsrti/shop/blob/main/assets/images/screenshots/Screenshot_20230923-060901_Expo%20Go.jpg)
-![Screenshot 2](https://github.com/mmnsrti/shop/blob/main/assets/images/screenshots/Screenshot_20230923-060912_Expo%20Go.jpg)
-![Screenshot 3](https://github.com/mmnsrti/shop/blob/main/assets/images/screenshots/Screenshot_20230923-060955_Expo%20Go.jpg)
-![Screenshot 4](https://github.com/mmnsrti/shop/blob/main/assets/images/screenshots/Screenshot_20230923-061013_Expo%20Go.jpg)
-![Screenshot 5](https://github.com/mmnsrti/shop/blob/main/assets/images/screenshots/Screenshot_20230923-061033_Expo%20Go.jpg)
-![Screenshot 6](https://github.com/mmnsrti/shop/blob/main/assets/images/screenshots/Screenshot_20230923-061038_Expo%20Go.jpg)
-![Screenshot 7](https://github.com/mmnsrti/shop/blob/main/assets/images/screenshots/Screenshot_20230923-061045_Expo%20Go.jpg)
-![Screenshot 8](https://github.com/mmnsrti/shop/blob/main/assets/images/screenshots/Screenshot_20230923-061335_Expo%20Go.jpg)
-![Screenshot 9](https://github.com/mmnsrti/shop/blob/main/assets/images/screenshots/Screenshot_20230923-061713_Expo%20Go.jpg)
-![Screenshot 10](https://github.com/mmnsrti/shop/blob/main/assets/images/screenshots/Screenshot_20230923-061738_Expo%20Go.jpg)
+![Screenshot 1](/assets/images/screenshots/Screenshot_20230923-060901_Expo%20Go.jpg)
+![Screenshot 2](/assets/images/screenshots/Screenshot_20230923-060912_Expo%20Go.jpg)
+![Screenshot 3](/assets/images/screenshots/Screenshot_20230923-060955_Expo%20Go.jpg)
+![Screenshot 4](/assets/images/screenshots/Screenshot_20230923-061013_Expo%20Go.jpg)
+![Screenshot 5](/assets/images/screenshots/Screenshot_20230923-061033_Expo%20Go.jpg)
+![Screenshot 6](/assets/images/screenshots/Screenshot_20230923-061038_Expo%20Go.jpg)
+![Screenshot 7](/assets/images/screenshots/Screenshot_20230923-061045_Expo%20Go.jpg)
+![Screenshot 8](/assets/images/screenshots/Screenshot_20230923-061335_Expo%20Go.jpg)
+![Screenshot 9](/assets/images/screenshots/Screenshot_20230923-061713_Expo%20Go.jpg)
+![Screenshot 10](/assets/images/screenshots/Screenshot_20230923-061738_Expo%20Go.jpg)
 
 ## Getting Started
 
