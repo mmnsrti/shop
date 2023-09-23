@@ -31,11 +31,10 @@
 
 ## ScreenShots
 
-[Provide a list of key ScreenShots or functionalities that your project offers.]
 
-- Feature 1
-- Feature 2
-- Feature 3
+- ScreenShot 1
+- ScreenShot 2
+- ScreenShot 3
 
 ## Getting Started
 
