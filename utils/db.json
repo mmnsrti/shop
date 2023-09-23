@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 19.99,
+      "size": "M",
+      "type": "Shirt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "images": [
+        "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/4675_source_1688795496.png",
+        "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/products/540/46763/1a3fe1dcf935f0cb5867faa38532c57e1319977b__65534.1615574908.386.513.png?c=1"
+      ],
+      "related_products": [2, 3]
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 29.99,
+      "size": "L",
+      "type": "Pants",
+      "description": "Ut porttitor diam nulla, id interdum metus aliquet et.",
+      "images": [
+        "https://westernrise.com/cdn/shop/files/compare-sec-evolution-pant.png?v=1650400964",
+        "https://westernrise.com/cdn/shop/files/compare-sec-at-pant.png?v=1650400947"
+      ],
+      "related_products": [1, 3]
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 39.99,
+      "size": "S",
+      "type": "Shoes",
+      "description": "Sed tempor nisl at augue tempor, ut gravida nunc ullamcorper.",
+      "images": [
+        "https://ir.ebaystatic.com/pictures/aw/pics/sneakers/58_e5d1ff8d4e.png",
+        "https://i.ebayimg.com/images/g/mqMAAOSwkZ5jlEtT/s-l1200.webp"
+      ],
+      "related_products": [1, 2]
+    }
+  ]
+}
+
